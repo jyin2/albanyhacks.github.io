@@ -22,33 +22,33 @@ tracking:
 
 # Let people connect & engage with you through social media.
 social:
-  twitter_handle:    "CreatEDHack"
+  twitter_handle:    "AlbanyHacks"
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:             "CreatED | 7-8 April 2018"
-  description:       "24-hour hardware hackathon in Edinburgh"
+  title:             "AlbanyHacks | 12-13 March 2020"
+  description:       "24-hour hackathon in Capital Region"
   image:             "https://createdhack.github.io/images/logo.png"
 
 organiser:
-  name:              "EaRS"
-  full_name:         "The University of Edinburgh Embedded and Robotics Society"
-  site:              "http://ears-edi.com/"
+  name:              "Shaker Coding Club and Hackclub"
+  full_name:         "Hackclub"
+  site:              "https://hackclub.com/"
 
 # Event information.
 event:
-  name:              "CreatED 2018"
-  name_short:        "CreatED"
-  description:       "24-hour hardware hackathon"
-  date:              "7th & 8th of April"
-  location:          "Appleton Tower, The University of Edinburgh"
+  name:              "AlbanyHacks 2020"
+  name_short:        "AlbanyHacks"
+  description:       "24-hour hackathon"
+  date:              "12th & 13th of March"
+  location:          "Capital Region"
   logosrc:           "images/logo.png"
-  logoalt:           "CreatED Logo"
+  logoalt:           "AlbanyHacks Logo"
 
   trust_badge:
-    year:            "2018"  # season year
+    year:            "2020"  # season year
     region:          "eu"    # "na" or "eu"
-    color:           "white" # "white", "black", "gray", "red", "blue" or "yellow"
+    color:           "blue" # "white", "black", "gray", "red", "blue" or "yellow"
 
   social:
     - logo:          "images/fb_logo.png"
@@ -66,13 +66,13 @@ event:
 
     links:
       - text:        "Sponsor"
-        href:        "mailto:cameron@ears-edi.com"
+        href:        "mailto:johnyin596@gmail.com"
 
   about:
     description:     >
-      CreatED is a 24 hour hardware hackathon coming to Edinburgh this April.{::nomarkdown}<br />{:/}
-      It'll bring together students for a fun weekend of invention, hacking, and learning.{::nomarkdown}<br />{:/}
-      Brought to you by [The University of Edinburgh Embedded and Robotics Society](http://ears-edi.com/).
+      AlbanyHacks is a 24 hour hackathon coming to the Capital Region this March.{::nomarkdown}<br />{:/}
+      It'll bring together students for a fun weekend of invention, coding, and learning.{::nomarkdown}<br />{:/}
+      Brought to you by Shaker Coding Club and [Hack Club](https://hackclub.com/).
 
   workshops:
       - name: "Introduction to Electronics"
@@ -108,68 +108,68 @@ event:
   # Info Sections
   sponsors:
     # tier1 is top, anycont is bottom (refer to sponsorship packages)
-    tier2:
-      - logo:        "images/accenture_logo.png"
-        name:        "Accenture"
-        url:         "http://www.accenture.com"
-      - logo:        "images/nordic_logo.png"
-        name:        "Nordic"
-        url:         "http://www.nordicsemi.com/"
-      - logo:        "images/github_logo.png"
-        name:        "GitHub"
-        url:         "https://github.com"
-      - logo:        "images/queryclick_logo.svg"
-        name:        "QueryClick"
-        url:         "http://uk.queryclick.com/en/"
-      - logo:        "images/ecr_logo.jpg"
-        name:        "ECR"
-        url:         "https://www.edinburgh-robotics.org/"
-      - logo:        "images/consequentialrobotics_logo.png"
-        name:        "Consequential Robotics"
-        url:         "http://consequentialrobotics.com"
-    tier3:
-      - logo:        "images/codethink_logo.svg"
-        name:        "Codethink"
-        url:         "https://www.codethink.co.uk/"
-      - logo:        "images/mokanix_logo_small.png"
-        name:        "mokanix"
-        url:         "https://www.mokanix.io"
-      - logo:        "images/fdm_logo.png"
-        name:        "FDM Group"
-        url:         "https://www.fdmgroup.com/"
-      - logo:        "images/compsoc_logo.png"
-        name:        "Compsoc"
-        customstyle: "padding-top: 20%; margin-bottom: 10%;"
-        url:         "https://comp-soc.com/"
-      - logo:        "images/morgain_stanley_logo.svg"
-        name:        "Morgan Stanley"
-        url:         "https://www.morganstanley.com/"
-        customstyle: "padding-top: 2%;"
-      - logo:        "images/sicsa_logo.svg"
-        name:        "SISCA"
-        url:         "http://www.sicsa.ac.uk/"
-    anycont:
-      - logo:        "images/InformaticsUni_transparent.gif"
-        name:        "University of Edinburgh School of Informatics"
-        url:         "http://www.ed.ac.uk/informatics"
-      - logo:        "images/xilinx_logo.png"
-        name:        "Xilinx"
-        url:         "http://www.xilinx.com"
-      - logo:        "images/mouser_logo.jpg"
-        name:        "Mouser"
-        url:         "http://mouser.com/"
-      - logo:        "images/jetbrains_logo.png"
-        name:        "JetBrains"
-        url:         "https://www.jetbrains.com/"
-      - logo:        "images/unity_logo.png"
-        name:        "Unity"
-        url:         "http://unity3d.com/"
-      - logo:        "images/lime_logo.png"
-        name:        "Lime Microsystems"
-        url:         "http://www.limemicro.com/"
-      - logo:        "images/twilio_logo.svg"
-        name:        "Twilio"
-        url:         "https://www.twilio.com"
+ #   tier2:
+  #    - logo:        "images/accenture_logo.png"
+       # name:        "Accenture"
+       # url:         "http://www.accenture.com"
+      #- logo:        "images/nordic_logo.png"
+      #  name:        "Nordic"
+      #  url:         "http://www.nordicsemi.com/"
+     # - logo:        "images/github_logo.png"
+     #   name:        "GitHub"
+     #   url:         "https://github.com"
+     # - logo:        "images/queryclick_logo.svg"
+     #   name:        "QueryClick"
+     #   url:         "http://uk.queryclick.com/en/"
+     # - logo:        "images/ecr_logo.jpg"
+      #  name:        "ECR"
+      #  url:         "https://www.edinburgh-robotics.org/"
+      #- logo:        "images/consequentialrobotics_logo.png"
+      #  name:        "Consequential Robotics"
+      #  url:         "http://consequentialrobotics.com"
+    #tier3:
+     # - logo:        "images/codethink_logo.svg"
+      #  name:        "Codethink"
+       # url:         "https://www.codethink.co.uk/"
+      #- logo:        "images/mokanix_logo_small.png"
+      #  name:        "mokanix"
+      #  url:         "https://www.mokanix.io"
+     # - logo:        "images/fdm_logo.png"
+     #   name:        "FDM Group"
+     #   url:         "https://www.fdmgroup.com/"
+     # - logo:        "images/compsoc_logo.png"
+     #   name:        "Compsoc"
+     #   customstyle: "padding-top: 20%; margin-bottom: 10%;"
+     #   url:         "https://comp-soc.com/"
+     # - logo:        "images/morgain_stanley_logo.svg"
+      #  name:        "Morgan Stanley"
+       # url:         "https://www.morganstanley.com/"
+        #customstyle: "padding-top: 2%;"
+      #- logo:        "images/sicsa_logo.svg"
+      #  name:        "SISCA"
+      #  url:         "http://www.sicsa.ac.uk/"
+    #anycont:
+    #  - logo:        "images/InformaticsUni_transparent.gif"
+     #   name:        "University of Edinburgh School of Informatics"
+      #  url:         "http://www.ed.ac.uk/informatics"
+     # - logo:        "images/xilinx_logo.png"
+     #   name:        "Xilinx"
+     #   url:         "http://www.xilinx.com"
+     # - logo:        "images/mouser_logo.jpg"
+     #   name:        "Mouser"
+     #   url:         "http://mouser.com/"
+     # - logo:        "images/jetbrains_logo.png"
+     #   name:        "JetBrains"
+     #   url:         "https://www.jetbrains.com/"
+     # - logo:        "images/unity_logo.png"
+     #   name:        "Unity"
+     #   url:         "http://unity3d.com/"
+     # - logo:        "images/lime_logo.png"
+     #   name:        "Lime Microsystems"
+     #   url:         "http://www.limemicro.com/"
+     # - logo:        "images/twilio_logo.svg"
+     #   name:        "Twilio"
+      #  url:         "https://www.twilio.com"
 
   info:
     sections:
