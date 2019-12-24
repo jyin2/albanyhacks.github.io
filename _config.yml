@@ -75,7 +75,7 @@ event:
       Brought to you by Shaker Coding Club and [Hack Club](https://hackclub.com/).
 
   workshops:
-  N/A
+         name: "N/A"
   #    - name: "Introduction to Electronics"
    #     time: "12.00 - 13.00"
     #    level: "No prior experience required."
