@@ -26,7 +26,7 @@ social:
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:             "AlbanyHacks | 12-13 March 2020"
+  title:             "AlbanyHacks | 4th March 2020"
   description:       "24-hour hackathon in Capital Region"
   image:             "https://createdhack.github.io/images/logo.png"
 
@@ -40,7 +40,7 @@ event:
   name:              "AlbanyHacks 2020"
   name_short:        "AlbanyHacks"
   description:       "24-hour hackathon"
-  date:              "12th & 13th of March"
+  date:              "4th of April"
   location:          "Capital Region"
   logosrc:           "images/logo.png"
   logoalt:           "AlbanyHacks Logo"
@@ -70,7 +70,7 @@ event:
 
   about:
     description:     >
-      AlbanyHacks is a 24 hour hackathon coming to the Capital Region this March.{::nomarkdown}<br />{:/}
+      AlbanyHacks is a 24 hour hackathon coming to the Capital Region this April.{::nomarkdown}<br />{:/}
       It'll bring together students for a fun weekend of invention, coding, and learning.{::nomarkdown}<br />{:/}
       Brought to you by Shaker Coding Club and [Hack Club](https://hackclub.com/).
 
